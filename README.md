@@ -12,8 +12,10 @@
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 </div>
+
 ---
 ## 📸 Screenshots
+
 | Themes | Screenshots |
 | :--- | :--- |
 | ![screenshot1](path/to/screenshot1.png) | ![screenshot2](path/to/screenshot2.png) |
