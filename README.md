@@ -16,8 +16,7 @@
 ---
 ## 📸 Screenshots
 
-<img src="assets/kronos_theme_1.png" width="20%">
- <img src="assets/kronos_theme_2.png" width="20%"> <img src="assets/kronos_theme_3.png" width="20%"> <img src="assets/kronos_theme_4.png" width="20%"> <img src="assets/kronos_theme_5.png" width="20%">
+<img src="assets/kronos_theme_1.png" width="20%"><img src="assets/kronos_theme_2.png" width="20%"><img src="assets/kronos_theme_3.png" width="20%"><img src="assets/kronos_theme_4.png" width="20%"><img src="assets/kronos_theme_5.png" width="20%">
 
 ---
 ## ✨ Key Features
