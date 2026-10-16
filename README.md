@@ -5,13 +5,26 @@
 ![Platform](https://img.shields.io/badge/platform-Web_%7C_Android_APK_%7C_Electron-818cf8?style=flat-square)
 **KRONOS // FLOW STUDIO v2.0** is a self-contained, offline-first study cockpit and productivity operating system. It combines a multi-mode Chrono-Study timer, a procedural Web Audio Lo-Fi synthesizer, gamified XP progression, 7-day visual analytics, 3D active recall flashcards, and a multi-tab Markdown note studio in a zero-dependency architecture.
 ---
+
 <div align="center">
-  
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-
 </div>
+---
+## 📸 Screenshots
 
+| Light Mode / Dashboard | Mobile View |
+| :--- | :--- |
+| ![screenshot1](path/to/screenshot1.png) | ![screenshot2](path/to/screenshot2.png) |
+
+---
+## ✨ Features
+* **Feature One:** Brief description of why this is awesome.
+* **Feature Two:** Another great capability of your project.
+* **Feature Three:** Zero dependencies and lightning-fast.
+
+---
 ## ✨ Key Features
 ### ⏱️ 1. Chrono-Study Focus Cockpit
 * **5 Focus Modes:** Pomodoro (`25/5m`), Deep Work (`50/10m`), Exam Sprint (`90/15m`), Flow Watch (`Count Up`), and Custom (`5–150m` Focus / `2–45m` Break).
