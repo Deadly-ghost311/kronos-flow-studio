@@ -16,7 +16,8 @@
 ---
 ## 📸 Screenshots
 
-<img src="assets/kronos_theme_1.png" width="20%"><img src="assets/kronos_theme_2.png" width="20%"><img src="assets/kronos_theme_3.png" width="20%"><img src="assets/kronos_theme_4.png" width="20%"><img src="assets/kronos_theme_5.png" width="20%">
+<img src="assets/kronos_theme_1.png" width="20%"><img src="assets/kronos_theme_2.png" width="20%"><img src="assets/kronos_theme_3.png" width="20%"><img src="assets/kronos_theme_4.png" width="20%"><img src="assets/kronos_theme_5.png" width="20%"> 
+<img src="assets/kronos1.png" width="20%"><img src="assets/kronos2.png" width="20%"><img src="assets/kronos3.png" width="20%"><img src="assets/kronos4.png" width="20%"><img src="assets/kronos5.png" width="20%"><img src="assets/kronos6.png" width="20%"><img src="assets/kronos7.png" width="20%"><img src="assets/kronos8.png" width="20%">
 
 ---
 ## ✨ Key Features
