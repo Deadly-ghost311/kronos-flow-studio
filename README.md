@@ -18,7 +18,7 @@
 
 | Themes | Screenshots |
 | :--- | :--- |
-| ![screenshot1](path/to/screenshot1.png) | ![screenshot2](path/to/screenshot2.png) |
+| ![screenshot1](https://github.com/Deadly-ghost311/kronos-flow-studio/blob/main/assets/kronos_theme_1.png) ![screenshot2](path/to/screenshot1.png) ![screenshot3](path/to/screenshot1.png) ![screenshot4](path/to/screenshot1.png) ![screenshot5](path/to/screenshot1.png) | ![screenshot2](path/to/screenshot2.png) |
 
 ---
 ## ✨ Key Features
