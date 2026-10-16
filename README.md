@@ -10,13 +10,12 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-[![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/redirect.html?id=)
 
 </div>
 ---
 ## 📸 Screenshots
 
-| Light Mode / Dashboard | Mobile View |
+| Themes | Screenshots |
 | :--- | :--- |
 | ![screenshot1](path/to/screenshot1.png) | ![screenshot2](path/to/screenshot2.png) |
 
