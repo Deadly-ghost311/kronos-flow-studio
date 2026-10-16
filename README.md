@@ -1,6 +1,8 @@
 # ⚛️ KRONOS // FLOW STUDIO v2.0
 > **Offline Study Focus & Productivity OS** — Glassmorphism + Neumorphism Fusion
-
+![Version](https://img.shields.io/badge/version-v2.0-38bdf8?style=flat-square)
+![Vault](https://img.shields.io/badge/storage-100%25_Offline_LocalStorage-34d399?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Web_%7C_Android_APK_%7C_Electron-818cf8?style=flat-square)
 **KRONOS // FLOW STUDIO v2.0** is a self-contained, offline-first study cockpit and productivity operating system. It combines a multi-mode Chrono-Study timer, a procedural Web Audio Lo-Fi synthesizer, gamified XP progression, 7-day visual analytics, 3D active recall flashcards, and a multi-tab Markdown note studio in a zero-dependency architecture.
 ---
 ## ✨ Key Features
