@@ -1,0 +1,9 @@
+# Exclude a folder named "docs" from release zip/tarballs
+docs/ export-ignore
+
+# Exclude a folder named "tests" or "development_files"
+assets/ export-ignore
+
+# You can also exclude specific root files like your CI configs
+.github/ export-ignore
+.gitignore export-ignore
